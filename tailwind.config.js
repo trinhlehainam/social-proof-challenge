@@ -11,6 +11,7 @@ module.exports = {
         },
         fontFamily: {
             "Spartan": ["Spartan"],
+            "sans": ["sans"]
         }
     },
     plugins: [],
